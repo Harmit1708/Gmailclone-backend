@@ -1,6 +1,6 @@
 # Gmail Clone
 
-Deployment Link : https://beatwithmusic.netlify.app/
+Deployment Link : https://gmail-clone-app.netlify.app/
 Frontend Link : https://github.com/Harmit1708/Gmailclone-frontend
 Backend Link : https://github.com/Harmit1708/Gmailclone-backend
 
